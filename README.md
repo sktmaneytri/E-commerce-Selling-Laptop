@@ -2,6 +2,8 @@
 
 ## Welcome
 Welcome to the readme file for the Ecommerce Website project. This project aims to create a platform for selling laptops and accessories online. The website provides various features for customers, sellers, and administrators to manage their accounts, products, and transactions. Below, you will find detailed information about the project's features, technologies used, and the hosting link.
+![image](https://github.com/sktmaneytri/FINALPROJECT/assets/75057067/e66e1502-ac4a-4a87-bd84-3521870e5853)
+
 
 ## Features
 
